@@ -1,4 +1,8 @@
 # ButtonMan
-Figuring out usb protocol and using it to reprogram a button
-![snippit-button-1](https://user-images.githubusercontent.com/47728115/145095055-bd700098-972d-40aa-8c3a-20d46d4c56c3.PNG)
-![snippit-button-2](https://user-images.githubusercontent.com/47728115/145095075-28db2b8b-ba3c-4744-bd00-8f0dad3853f4.PNG)
+using c# and arduino to reprogram a button
+![download](https://user-images.githubusercontent.com/47728115/145628766-c73199bd-d203-4856-b221-bae413341958.jpg)
+this button will be my user input
+![image](https://user-images.githubusercontent.com/47728115/145629521-8d8616dc-8682-46d4-8614-56ba499933fb.png)
+Flow chart
+![download (1)](https://user-images.githubusercontent.com/47728115/145629926-62108be2-e4e9-415c-81e7-66f0798e6c9d.jpg)
+arduino
